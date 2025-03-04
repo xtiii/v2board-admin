@@ -1,8 +1,8 @@
 window.settings = {
   // 站点标题
-  title: 'V2Board',
+  title: 'HXSpeed',
   // API
-  host: '',
+  host: 'https://hxspeed.cc',
   // 主题
   theme: {
     sidebar: 'light',
@@ -13,5 +13,5 @@ window.settings = {
   background_url: '',
   logo: '',
   // 需与V2Board设置中的后台路径一致
-  secure_path: 'admin'
+  secure_path: 'hxshowtime'
 }
